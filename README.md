@@ -1,4 +1,4 @@
-# SimPush
+# SimPush: Large-Scale Planar Pushing Dataset
 Here is the google drive link to SimPush Dataset : https://bit.ly/2O8Y4Iq
 ## Data arrangement 
 We save the pushes for each object individually. 
